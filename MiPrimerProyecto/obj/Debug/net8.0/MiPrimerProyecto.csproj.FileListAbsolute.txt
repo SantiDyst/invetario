@@ -1,0 +1,14 @@
+c:\Users\Atencion online 2\Desktop\inventario\MiPrimerProyecto\bin\Debug\net8.0\MiPrimerProyecto.exe
+C:\Users\Atencion online 2\Desktop\inventario\MiPrimerProyecto\bin\Debug\net8.0\MiPrimerProyecto.deps.json
+C:\Users\Atencion online 2\Desktop\inventario\MiPrimerProyecto\bin\Debug\net8.0\MiPrimerProyecto.runtimeconfig.json
+c:\Users\Atencion online 2\Desktop\inventario\MiPrimerProyecto\bin\Debug\net8.0\MiPrimerProyecto.dll
+c:\Users\Atencion online 2\Desktop\inventario\MiPrimerProyecto\bin\Debug\net8.0\MiPrimerProyecto.pdb
+c:\Users\Atencion online 2\Desktop\inventario\MiPrimerProyecto\obj\Debug\net8.0\MiPrimerProyecto.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Atencion online 2\Desktop\inventario\MiPrimerProyecto\obj\Debug\net8.0\MiPrimerProyecto.AssemblyInfoInputs.cache
+c:\Users\Atencion online 2\Desktop\inventario\MiPrimerProyecto\obj\Debug\net8.0\MiPrimerProyecto.AssemblyInfo.cs
+c:\Users\Atencion online 2\Desktop\inventario\MiPrimerProyecto\obj\Debug\net8.0\MiPrimerProyecto.csproj.CoreCompileInputs.cache
+c:\Users\Atencion online 2\Desktop\inventario\MiPrimerProyecto\obj\Debug\net8.0\MiPrimerProyecto.dll
+c:\Users\Atencion online 2\Desktop\inventario\MiPrimerProyecto\obj\Debug\net8.0\refint\MiPrimerProyecto.dll
+c:\Users\Atencion online 2\Desktop\inventario\MiPrimerProyecto\obj\Debug\net8.0\MiPrimerProyecto.pdb
+C:\Users\Atencion online 2\Desktop\inventario\MiPrimerProyecto\obj\Debug\net8.0\MiPrimerProyecto.genruntimeconfig.cache
+C:\Users\Atencion online 2\Desktop\inventario\MiPrimerProyecto\obj\Debug\net8.0\ref\MiPrimerProyecto.dll
